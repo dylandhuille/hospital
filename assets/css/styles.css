@@ -1,0 +1,10 @@
+.invalid-feedback-2{
+    color: red;
+}
+.bg-colorOrange,.page-item.active .page-link {
+    background-color: #F58220;
+    color:white;
+}
+.colorOrange,a{
+    color: #F58220;
+}
